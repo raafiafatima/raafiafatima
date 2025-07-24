@@ -13,6 +13,7 @@ Raafia Fatima</h1>
 <img align="left" alt="C++" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br clear = 'all'/>
+<br/>
 
 <h3>Connect with Me </h3>
 <div align = 'center'>
