@@ -14,7 +14,7 @@ Raafia Fatima</h1>
 <img align="left" alt="GitHub" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br clear = 'all'/>
 
-<h1>Connect with Me </h1>
+<h3>Connect with Me </h3>
 <div align = 'center'>
 
 [![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png)](https://linkedin.com/in/raafiafatima)
