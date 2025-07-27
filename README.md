@@ -15,4 +15,6 @@ Raafia Fatima</h1>
 <br clear = 'all'/>
 <br/>
 
-
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=raafiafatima&theme=dark&hide_border=false"/>
+</p>
