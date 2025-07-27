@@ -15,12 +15,4 @@ Raafia Fatima</h1>
 <br clear = 'all'/>
 <br/>
 
-<h3>Connect with Me </h3>
-<div align = 'left'>
-
-[![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png)](https://linkedin.com/in/raafiafatima)
-[![Gmail](https://img.icons8.com/ios-filled/20/000000/gmail.png)](mailto:raafia.fatima.2004@gmail.com)
-[![GitHub](https://img.icons8.com/ios-glyphs/20/000000/github.png)](https://github.com/raafiafatima)
-
-</div>
 
