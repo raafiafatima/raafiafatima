@@ -1,6 +1,6 @@
-<h1 align="center">Hi!   I'm 
+<h1 align="left">Hi!   I'm 
 Raafia Fatima</h1> 
-<p align="center">A Software Engineering Student, currently learning <b>Front-End Development</b> and interested in <b>UI/UX Design</b>. I use JavaScript, React, and Python to build things that (mostly) work, and learn a lot when they don’t. Always looking for ways to grow, build better, and turn side projects into real solutions <\> </p>
+<p align="left">A Software Engineering Student, currently learning <b>Front-End Development</b> and interested in <b>UI/UX Design</b>. I use JavaScript, React, and Python to build things that (mostly) work, and learn a lot when they don’t. Always looking for ways to grow, build better, and turn side projects into real solutions <\> </p>
 <br>
 
 <h1>Languages and Tools</h1>
